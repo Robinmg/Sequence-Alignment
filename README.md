@@ -7,7 +7,8 @@ sequence one:  ACCGGGTACCGGGGAAAATTT
 
 sequence two:  ACCGTACCGGAGGAAATT
 
-output (aligned sequences):
+output (aligned sequences) where D in sequence two is a predicted deletion from seqence one
+and an I in sequence one is where an insertion may have happend in the aligned sequence two:
 
 sequence one: ACCGGGTACCGGIGGAAAATTT
 
