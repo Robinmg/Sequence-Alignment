@@ -9,8 +9,8 @@ sequence two:  ACCGTACCGGAGGAAATT
 
 output (aligned sequences):
 
-sequence one: ACCGGGTACCGG_GGAAAATTT
+sequence one: ACCGGGTACCGGIGGAAAATTT
 
-sequence two: ACC__GTACCGGAGG_AAA_TT
+sequence two: ACCDDGTACCGGAGGDAAADTT
 
 
